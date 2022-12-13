@@ -112,5 +112,4 @@ Alan Giovanni - Pedro Vargas
 [![Gmail Badge](https://img.shields.io/badge/-agmtargino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agmtargino@gmail.com)](mailto:agmtargino@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Vargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phvs/)](https://www.linkedin.com/in/phvs/)
-
 [![Gmail Badge](https://img.shields.io/badge/-phvs.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phvs.tech@gmail.com)](mailto:phvs.tech@gmail.com)
